@@ -21,4 +21,7 @@ sample
 14-03-2022
 10-06-2022--->it is firday
 16-06-2022--> is is thursday
+<<<<<<< HEAD
+>>>>>>> 69bfd17 (16-06-2022 is thursday)
+=======
 >>>>>>> 69bfd17 (16-06-2022 is thursday)
