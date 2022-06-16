@@ -20,6 +20,7 @@ sample
 07-03-2022  -- it is Monday 10.12am of march
 14-03-2022
 10-06-2022--->it is firday
+<<<<<<< HEAD
 16-06-2022--> is is thursday
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -28,3 +29,6 @@ sample
 >>>>>>> 69bfd17 (16-06-2022 is thursday)
 =======
 >>>>>>> parent of 848e22c (Merge pull request #48 from raknas999/feature-5)
+=======
+16-06-2022--> today is thursday
+>>>>>>> 848e22c (Merge pull request #48 from raknas999/feature-5)
