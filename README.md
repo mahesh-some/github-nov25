@@ -22,6 +22,9 @@ sample
 10-06-2022--->it is firday
 16-06-2022--> is is thursday
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 69bfd17 (16-06-2022 is thursday)
 =======
 >>>>>>> 69bfd17 (16-06-2022 is thursday)
+=======
+>>>>>>> parent of 848e22c (Merge pull request #48 from raknas999/feature-5)
