@@ -28,7 +28,8 @@ sample
 Some changes from develop branch
 04-04-23
 01-09-2023 ---> Today is Friday
-17-12-2025 ---> Today is Wednesday
+13-09-2023 ---> Today is Wednesday
+17-12-2025 ---> Today is thursday
 
 13-09-2023 ---> Today is Wednesday
 12-17-2025
