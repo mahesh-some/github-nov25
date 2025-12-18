@@ -27,8 +27,13 @@ sample
 >>>>>>> 69bfd17 (16-06-2022 is thursday)
 =======
 >>>>>>> 69bfd17 (16-06-2022 is thursday)
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 848e22c (Merge pull request #48 from raknas999/feature-5)
 =======
 16-06-2022--> today is thursday
 >>>>>>> 848e22c (Merge pull request #48 from raknas999/feature-5)
+=======
+ 18-12-2025---->monday 8:52am
+
+>>>>>>> refs/remotes/origin/develop
